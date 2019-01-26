@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cdn.hipwallpaper.com/i/15/11/ZIuTb4.jpg) no-repeat;
+    background-color: #09814A;
+
+}
+
+.title {
+    color: beige;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10%;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 1000;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card {
+    margin-top: 5%;
+    margin-bottom: auto;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.card2 {
+    color: white;
+    margin-top: 5%;
+    margin-bottom: auto;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+
+}
+
+.social_icon span {
+    font-size: 25px;
+    margin-left: 10px;
+    color: #09814A;
+}
+
+.social_icon span:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.card-header h3 {
+    color: white;
+    text-align: center;
+
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: 5%;
+}
+
+.pedir {
+    font-size: 20px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #09814A;
+    color: white;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+
+}
+
+.forgot {
+    color: #09814A;
+}
+
+.forgot:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.reg {
+    color: white;
+    background-color: #09814A;
+    margin-top: 0%;
+    margin-bottom: 20%;
+}
+
+.reg:hover {
+    color: #09814A;
+    background-color: white;
+}
+
+.login_btn2 {
+    color: white;
+    background-color: #09814A;
+    width: 65%;
+}
+
+.login_btn2:hover {
+    color: #09814A;
+    background-color: white;
+}
+
+.login_btn {
+    color: white;
+    background-color: #09814A;
+    width: 50%;
+}
+
+.login_btn:hover {
+    color: #09814A;
+    background-color: white;
+}
+
+
+.links {
+    color: white;
+}
+
+.links a {
+    margin-left: 4px;
+}

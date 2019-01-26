@@ -1,0 +1,99 @@
+@media only screen and (max-width: 991px) {
+    .social_icon span {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .mapa {
+        width: 127%;
+        margin-left: -14%;
+    }
+}
+
+@media only screen and (max-width: 1367px) {
+    .mapa {
+        width: 120%;
+        margin-left: -10%;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .mapa {
+        width: 100%;
+        margin-left: 0%;
+    }
+}
+
+@media only screen and (max-width: 1025px) {
+    .lista ul li {
+        left: -27%;
+        line-height: 50px;
+        width: 130%;
+        padding-left: 0%;
+        position: relative;
+        list-style: none;
+        height: 50px;
+        color: #fff;
+        border: 1px solid rgba(32, 82, 39);
+        border-right: 10px;
+    }
+
+    .holder {
+        margin-top: 25%;
+        margin-left: 25%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .lista ul li {
+        left: -40%;
+        line-height: 50px;
+        width: 150%;
+        padding-left: 0%;
+        position: relative;
+        list-style: none;
+        height: 50px;
+        color: #fff;
+        border: 1px solid rgba(32, 82, 39);
+        border-right: 10px;
+    }
+
+    aside:active {
+        width: 50%;
+    }
+
+    aside:hover {
+        width: 50%;
+        z-index: 1;
+    }
+
+    .holder h1 {
+        font-size: 20px;
+        margin-top: 25%;
+        margin-left: 35%;
+    }
+
+    aside {
+        width: 10%;
+    }
+
+}
+
+@media only screen and (max-height: 668px) {
+    .mapa {
+        height: 85vh;
+    }
+}
+
+@media only screen and (max-height: 480px) {
+    .mapa {
+        height: 80vh;
+    }
+}
+
+@media only screen and (max-height: 241px) {
+    .mapa {
+        height: 68vh;
+    }
+}
